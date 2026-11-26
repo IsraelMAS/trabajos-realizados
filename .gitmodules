@@ -1,0 +1,15 @@
+[submodule "fullstack/abastix"]
+	path = fullstack/abastix
+	url = https://github.com/IsraelMAS/abastix.git
+[submodule "fullstack/FisioMarca"]
+	path = fullstack/FisioMarca
+	url = https://github.com/IsraelMAS/FisioMarca.git
+[submodule "fullstack/sistema-carga-aerea"]
+	path = fullstack/sistema-carga-aerea
+	url = https://github.com/IsraelMAS/sistema-carga-aerea.git
+[submodule "java-web/ProyBarberia2025"]
+	path = java-web/ProyBarberia2025
+	url = https://github.com/IsraelMAS/ProyBarberia2025.git
+[submodule "dotnet/AppWebFerreteria"]
+	path = dotnet/AppWebFerreteria
+	url = https://github.com/IsraelMAS/AppWebFerreteria.git
